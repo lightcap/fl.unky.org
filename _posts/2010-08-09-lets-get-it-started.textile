@@ -4,10 +4,13 @@ title: Let's Get It Started
 author: Matt Kern
 ---
 
+!(right)http://images.amazon.com/images/P/0465026567.01._SX140_SY225_SCLZZZZZZZ_.jpg(Godel, Escher, Bach)!:http://www.amazon.com/Gödel-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?ie=UTF8&s=books&qid=1281419903&sr=8-1
+
 h3. {{ page.title }}
 
 p(meta). {{ page.date | date_to_string }}
 
-Apparently this really is the world's most pretentious book club. Look, I've got two reasons. First, my dear friend from college "says so":http://www.facebook.com/l1ghtcap?v=wall&story_fbid=144064382289522&ref=mf. And second, there's only two of us in the damn thing right now. Can you say "exclusive"? So if you want to get in on this exclusivity yourself here's the first book we're attacking. And, the reason for the accusations of pretentiousness.
+Apparently this really is the world's most pretentious book club. Look, I've got two reasons. First, my dear friend from college "says so":http://skitch.com/lightcap/dte27/facebook-3-matt-kern-new-book-club-forming-1st-book-godel-escher-bach-an-eternal-golden-braid-meet-each-week-alternate-skype-and-live-who-s-in. And second, there's only three of us in the damn thing right now. Can you say "exclusive"? 
 
+So, if you want to get in on this exclusivity yourself here's the first book we're attacking: _"G&ouml;del, Escher, Bach: An Eternal Golden Braid":http://www.amazon.com/Gödel-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?ie=UTF8&s=books&qid=1281419903&sr=8-1_. And, the reason for the accusations of pretentiousness.
 &mdash; {{ page.author }}

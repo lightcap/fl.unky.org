@@ -1,0 +1,12 @@
+---
+layout: post
+title: I Love It When a Plan Comes Together
+author: Matt Kern
+---
+
+h3. {{ page.title }}
+
+p(meta). {{ page.date | date_to_string }}
+
+The current plan is to meet weekly. But, since most of us lead interesting and diverse lives, we're going to meet in person only once every other week. Current time slot is Thursdays at 7pm at McMenamin's Old Saint Francis School. The first in person meeting is this week, Thursday, August 12. The following week, we'll have a Skype call with all the participants that can make it. The virtual meetings are completely and totally experimental at this point, so don't be afraid to join if you can't make it every week.
+&mdash; {{ page.author }}
