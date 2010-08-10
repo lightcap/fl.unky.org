@@ -1,0 +1,13 @@
+---
+layout: post
+title: Let's Get It Started
+author: Matt Kern
+---
+
+h3. {{ page.title }}
+
+p(meta). {{ page.date | date_to_string }}
+
+Apparently this really is the world's most pretentious book club. Look, I've got two reasons. First, my dear friend from college "says so":http://www.facebook.com/l1ghtcap?v=wall&story_fbid=144064382289522&ref=mf. And second, there's only two of us in the damn thing right now. Can you say "exclusive"? So if you want to get in on this exclusivity yourself here's the first book we're attacking. And, the reason for the accusations of pretentiousness.
+
+&mdash; {{ page.author }}
