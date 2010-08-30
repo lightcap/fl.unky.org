@@ -8,7 +8,7 @@ h3. {{ page.title }}
 
 p(meta). {{ page.date | date_to_string }}
 
-Okay, sorry everyone. I've dropped the ball during my two weeks of travel. Call it bad timing. Call it laziness. Call it whatever you want. But, rather than postpone yet another week, let's get this weeks meeting on the calendar for this Wednesday, September 1st. After this week we'll be back to our regular scheduled time on Thursdays.
+Okay, sorry everyone. I've dropped the ball during my two weeks of travel. Call it bad timing. Call it laziness. Call it whatever you want. So, in the interest of getting everyone onboard and caught up, let's say we'll meet Thursday, Septeber 9th. Let's all try to gave gotten through the first few chapters and the intro. See you all then!
 
 If this is a problem for anyone let me know.
 &mdash; {{ page.author }}
