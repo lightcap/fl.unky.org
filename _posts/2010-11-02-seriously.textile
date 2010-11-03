@@ -1,0 +1,14 @@
+---
+layout: post
+title: Seriously
+author: Matt Kern
+---
+
+h3. {{ page.title }}
+
+p(meta). {{ page.date | date_to_string }}
+
+Okay, meeting is on for this week. I'd claim come hell or high water, but until I get buy in from everyone via email I'm just not that confident. I just wanted to make sure the site was updated in case anyone is actually looking at this lately. (Seriously!)
+
+We're planning to meet at McMenamin's Fireside Bar at 5:30pm on Thursday, November 4. There's a new local ski flick debuting down the street at Summit at 7pm so we could make a night of it. We'll cover the Introduction and Chapter 1.
+&mdash; {{ page.author }}
